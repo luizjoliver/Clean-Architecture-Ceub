@@ -1,0 +1,1 @@
+import "./infraestructure/web/server.ts"
